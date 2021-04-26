@@ -12,7 +12,7 @@ A libp2p router that uses DNS.
 
 ## Documenation
 
-See https://godoc.org/github.com/libp2p/go-libp2p-dns-router.
+See https://godoc.org/github.com/ipfs/go-libp2p-dns-router.
 
 ## Contribute
 
